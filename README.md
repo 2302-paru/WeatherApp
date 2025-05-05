@@ -1,2 +1,3 @@
-# my-first-repository
-For learning git
+#WeatherApp
+to learn javascript
+
